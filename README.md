@@ -7,6 +7,6 @@
 
 ### Teste 5
 
-![laravel](/laravel.png)
-![laravel](/angular.png)
+![laravel](/README/laravel.png)
+![laravel](/README/angular.png)
 
